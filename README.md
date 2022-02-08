@@ -27,25 +27,7 @@ We have prepared [short introduction](https://github.com/DivanteLtd/vsf-capybara
     </tr>
   </tbody>
 </table>
-
-## 📺 Video demo
-[![See video demo!](http://i3.ytimg.com/vi/x2_w-ZBOfqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=x2_w-ZBOfqE)
-
-
-## ✨  Features
-
-Capybara theme provides out of the box ready to use elements, like Cart, Checkout, Modals or Product-related components - to name only a few of them, which all are based on awesome Storefront UI. It provides new look & feel for the Vue Storefront with simpler development experience. You can just grab it and use it, or you can play around to re-design existing components and build something new easily.
-
-If you're new and need some guidance feel free to visit out [forum](https://forum.vuestorefront.io/) or reach anyone from the core team on our discord:
-- Tomasz Kikowski - [@qiqqq](https://github.com/qiqqq)
-- Tomasz Kostuch - [@gibkigonzo](https://github.com/gibkigonzo)
-- Paweł Smyrek - [@psmyrek](https://github.com/psmyrek)
-- Rafał Makara - [@rmakara](https://github.com/rmakara)
-
-## 🤝  Contributing
-
-We are currently in the early developer’s preview phase. If you would like to help us improve this beautiful theme we'd be more than happy if you want to contribute! [Here](https://github.com/DivanteLtd/vsf-capybara/blob/master/CONTRIBUTING.md) you can find all the required information how to start.
-
+ 
 ## 🔌  Installation
 To be able to use new Capybara theme in your Vue Storefront installation, you need to:
 
