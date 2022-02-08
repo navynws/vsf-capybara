@@ -1,5 +1,4 @@
-<img src="https://blog.vuestorefront.io/wp-content/uploads/2020/02/CAPYBARA.png"></img>
-
+ 
 # Capybara - Storefront UI based theme for Vue Storefront
 
 New default template theme for [Vue Storefront](https://github.com/DivanteLtd/vue-storefront), based on [Storefront UI](https://storefrontui.io/). 90% of the Capybara code is closed in the [Storefront UI library](https://github.com/DivanteLtd/storefront-ui). Thanks to it, Capybara can maintain its flexibility, but minimize the risk of errors.
@@ -7,26 +6,7 @@ New default template theme for [Vue Storefront](https://github.com/DivanteLtd/vu
  **🔨  Current status: Production Ready**
 
 We have prepared [short introduction](https://github.com/DivanteLtd/vsf-capybara/blob/develop/CODING_STANDARDS.md) to our coding standards and conventions we are using in Capybara theme.
-
-## 🚀 See it in action
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://capybara.storefrontcloud.io/">
-          <img
-            src="https://divante.co/open-graph/vuestorefront/GitHub-Readme-Try-Demo.png"
-            alt="B2C Theme demo"
-            style="width: 100px;">
-        </a>
-      </td>
-      <td align="left" valign="top">
-        Try out our open demo and if you like it <strong> first give us some star on Github ★</strong> and then contact us on <a href="https://discord.vuestorefront.io/">Vue Storefront Official Discord</a> or via contributors@vuestorefront.io. <br /><br /> This demo site is connected to Magento2. <br />
-      </td>
-    </tr>
-  </tbody>
-</table>
+ 
  
 ## 🔌  Installation
 To be able to use new Capybara theme in your Vue Storefront installation, you need to:
